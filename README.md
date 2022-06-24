@@ -1,4 +1,4 @@
-# Python Colab Bootcamp with COVID19 Analysis
+# Teacher Python Colab Bootcamp with COVID19 Analysis
 # For K12 Teacher coding bootcamp, June 27-28, 2022. Online. 
 For registration, plesae follow https://forms.gle/kdu3FVYcmcWUh3f37 
 

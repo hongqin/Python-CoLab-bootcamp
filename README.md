@@ -13,3 +13,4 @@ Day 2 (June 28) <br>
 * 9:45am-noon. COVID19 data analysis continued. <br> 
 * 2pm-5pm.  Discussion and exercises
 
+To submit a lesson plan on teaching computer programming in K12 setting, please follow https://forms.gle/uiT7wxgk2wSFkGoK9 

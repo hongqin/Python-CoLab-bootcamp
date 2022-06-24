@@ -5,7 +5,7 @@ Regisration is closed now. (URL https://forms.gle/kdu3FVYcmcWUh3f37 )
 All time are Eastern Time. <br> 
 
 Day 1 (June 27) <br> 
-+ 9:45am - noon. Introduction to Python and CoLab. <br> 
++ 9:45am - noon. Introduction to Python and CoLab. Socrative Questions. <br> 
 + Noon.  Group picture. Lunch break. 
 + 2pm-5pm,  Using Python Pandas for COVID19 data analysis.YouTube tutorial: https://youtu.be/1JDP4o92tss  <br> 
        

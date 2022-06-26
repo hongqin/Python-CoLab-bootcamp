@@ -12,7 +12,10 @@ Day 1 (June 27) <br>
 + 2pm-5pm,  Using Python Pandas for COVID19 data analysis. YouTube tutorial: https://youtu.be/1JDP4o92tss  <br> 
        
 Day 2 (June 28) <br>
-* 9:45am-noon. COVID19 data analysis continued. <br> 
-* 2pm-5pm.  Additional exercises. 
++ 9:45am-noon. COVID19 data analysis continued. <br> 
++ 2pm-5pm.  Additional exercises on deep learning. 
++ [Fake voice](https://github.com/hongqin/Python-CoLab-bootcamp/blob/master/DeepPonies_Text_To_Speech.ipynb)
++ [Neural network playground](https://playground.tensorflow.org/)
+
 
 To submit a lesson plan on teaching computer programming in K12 setting, please follow https://forms.gle/uiT7wxgk2wSFkGoK9 

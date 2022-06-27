@@ -2,6 +2,8 @@
 # For K12 Teacher coding bootcamp, June 27-28, 2022. Online. 
 Regisration is closed now. (URL https://forms.gle/kdu3FVYcmcWUh3f37 )
 
+Please go to socrative.com and join room **HongQin**
+
 All time are Eastern Time. <br> 
 
 Please make sure that you have **a functional Gmail account** that can sign-in Google CoLab at https://colab.research.google.com/

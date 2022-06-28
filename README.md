@@ -20,4 +20,4 @@ Day 2 (June 28) <br>
 + [Neural network playground](https://playground.tensorflow.org/)
 
 
-To submit a lesson plan on teaching computer programming in K12 setting, please follow https://forms.gle/uiT7wxgk2wSFkGoK9 
+To submit an essay on teaching computer programming in formal and/or informal K12 settings, please follow https://forms.gle/uiT7wxgk2wSFkGoK9 

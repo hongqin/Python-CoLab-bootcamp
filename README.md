@@ -3,7 +3,7 @@ for education only
 
 2023 videos
  
-part 1 video https://youtu.be/6Sf7gi7hOqw 
+part 1 video https://youtu.be/6Sf7gi7hOqw (python basics)
 
 part 2 video https://youtu.be/c9AuCm9LkPY
 

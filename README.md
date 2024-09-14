@@ -15,4 +15,11 @@ part 5 video https://youtu.be/Vrg2NJsOIew (student presentation)
 
 part 6 video https://youtu.be/346MXHkmvM8 (student presentation)
  
+2024 videos
+part 1, python basics, https://youtu.be/71LcI1Etlzc
+
+part 2, emergent aging modeling, https://youtu.be/lwPQiC_z44E
+
+part 3. advanced topics, https://youtu.be/BSVqVnoBDP0
+
 
